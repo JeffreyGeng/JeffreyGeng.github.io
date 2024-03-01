@@ -4,6 +4,7 @@ p {
 }
 
 .highlight {
+    text-align: center;
     background-color: yellow;
     padding: 10px;
     border: 1px solid black;
