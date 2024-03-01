@@ -30,7 +30,7 @@ a:link{
 
 /* Hover state of link*/
 a:hover {
-    color: lightblue; /* Color when hovered */
+    color: red; /* Color when hovered */
 }
 
 /* Active state (clicked) */
