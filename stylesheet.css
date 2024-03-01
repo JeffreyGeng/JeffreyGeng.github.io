@@ -1,4 +1,4 @@
-p {
+p {  /* change to a html tag*/
     color: black;
     font-size: 20px;
 }
@@ -6,7 +6,7 @@ p {
 #highlight {
     text-align: center;
     background-color: yellow;
-    padding: 10px;
+    padding: 10px;      /*box Model change 1*/
     border: 1px solid black;
 }
 
@@ -19,7 +19,7 @@ p {
     background-color: green;
     color: black;
     border: 2px solid black;
-    margin: 20px;
+    margin: 20px;       /*Box model change 2*/
     padding: 20px;
     text-align: center;
 }
@@ -28,7 +28,7 @@ a:link{
     color: black; /* Default color */
 }
 
-/* Hover state */
+/* Hover state of link*/
 a:hover {
     color: lightblue; /* Color when hovered */
 }
