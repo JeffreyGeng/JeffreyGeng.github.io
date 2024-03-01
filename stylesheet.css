@@ -8,3 +8,8 @@ p {
     padding: 10px;
     border: 1px solid black;
 }
+
+.header{
+    font-size: 40px;
+    font-weight: bold;
+}
