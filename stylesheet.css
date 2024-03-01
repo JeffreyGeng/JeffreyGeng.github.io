@@ -26,7 +26,6 @@ p {
 
 a:link{
     color: black; /* Default color */
-    text-decoration: none; /* Remove underline */
 }
 
 /* Hover state */
@@ -36,9 +35,9 @@ a:hover {
 
 /* Active state (clicked) */
 a:active {
-    color: blue; /* Color when clicked */
+    color: red; /* Color when clicked */
 }
 
 a:visited{
-    color: red;
+    color: blue;
 }
