@@ -24,17 +24,21 @@ p {
     text-align: center;
 }
 
-.custom-link {
+a:link{
     color: black; /* Default color */
     text-decoration: none; /* Remove underline */
 }
 
 /* Hover state */
-.custom-link:hover {
+a:hover {
     color: lightblue; /* Color when hovered */
 }
 
 /* Active state (clicked) */
-.custom-link:active {
+a:active {
     color: blue; /* Color when clicked */
+}
+
+a:visited{
+    color: red;
 }
