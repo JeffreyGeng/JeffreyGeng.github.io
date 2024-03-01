@@ -3,7 +3,7 @@ p {
     font-size: 20px;
 }
 
-.highlight {
+#highlight {
     text-align: center;
     background-color: yellow;
     padding: 10px;
@@ -15,7 +15,7 @@ p {
     font-weight: bold;
 }
 
-#createID{
+.createID{
     background-color: green;
     color: black;
     border: 2px solid black;
