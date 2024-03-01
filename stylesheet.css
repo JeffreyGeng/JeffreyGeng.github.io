@@ -33,11 +33,6 @@ a:hover {
     color: red; /* Color when hovered */
 }
 
-/* Active state (clicked) */
-a:active {
-    color: red; /* Color when clicked */
-}
-
 a:visited{
     color: blue;
 }
