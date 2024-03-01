@@ -23,3 +23,15 @@ p {
     padding: 20px;
     text-align: center;
 }
+
+a:link{
+    color: black;
+}
+
+a:hover{
+    color: lightblue;
+}
+
+a:visited{
+    color:blue;
+}
